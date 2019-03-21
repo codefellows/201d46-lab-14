@@ -1,1 +1,61 @@
 /* TODO: Make it awesome */
+* {
+  background-color: aliceblue;
+}
+body>header {
+  width: 350px;
+  height: 100px;
+  margin-left: 38%;
+}
+.deck {
+  margin-top: 2%;
+}
+ul>li {
+  font-size: 30px;
+  font-weight: bold;
+  font-family: sans-serif;
+  float: left;
+  margin-left: 61px;
+  margin-top: 10px;
+}
+ol {
+  margin-left: 2%;
+}
+li>a {
+  text-decoration: none;
+}
+body>header>h1 {
+  font-size: 50px;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+.col-1>div>header>h1 {
+  font-size: 25px;
+  font-family: sans-serif;
+  font-weight: bold;
+  margin-left: 2%;
+}
+.copy {
+  margin-top: 2%;
+  font-size: 20px;
+  font-family: sans-serif;
+  margin-top: 2%;
+  margin-bottom: 2%
+}
+.col-2 {
+  border: 3px solid red;
+  width: 600px;
+  margin-left: 2%;
+  font-size: 20px;
+  font-family: sans-serif;
+}
+.catalog {
+  width: 50px;
+}
+footer {
+  text-align: center;
+  font-family: sans-serif;
+}
+footer>p {
+  margin-top: 5%;
+}
